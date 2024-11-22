@@ -1,0 +1,80 @@
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\appsettings.json
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\teste_dotnet.exe
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\teste_dotnet.deps.json
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\teste_dotnet.runtimeconfig.json
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\teste_dotnet.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\teste_dotnet.pdb
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\yohan\teste_dotnet\obj\Debug\net9.0\teste_dotnet.csproj.AssemblyReference.cache
+C:\Users\yohan\teste_dotnet\obj\Debug\net9.0\teste_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yohan\teste_dotnet\obj\Debug\net9.0\teste_dotnet.AssemblyInfoInputs.cache
+C:\Users\yohan\teste_dotnet\obj\Debug\net9.0\teste_dotnet.AssemblyInfo.cs
+C:\Users\yohan\teste_dotnet\obj\Debug\net9.0\teste_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\yohan\teste_dotnet\obj\Debug\net9.0\teste_dotnet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yohan\teste_dotnet\obj\Debug\net9.0\teste_dotnet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yohan\teste_dotnet\obj\Debug\net9.0\teste_do.251034CE.Up2Date
+C:\Users\yohan\teste_dotnet\obj\Debug\net9.0\teste_dotnet.dll
+C:\Users\yohan\teste_dotnet\obj\Debug\net9.0\refint\teste_dotnet.dll
+C:\Users\yohan\teste_dotnet\obj\Debug\net9.0\teste_dotnet.pdb
+C:\Users\yohan\teste_dotnet\obj\Debug\net9.0\teste_dotnet.genruntimeconfig.cache
+C:\Users\yohan\teste_dotnet\obj\Debug\net9.0\ref\teste_dotnet.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\Ionic.Zip.Reduced.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\SharpKml.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yohan\teste_dotnet\obj\Debug\net9.0\teste_dotnet.RazorAssemblyInfo.cache
+C:\Users\yohan\teste_dotnet\obj\Debug\net9.0\teste_dotnet.RazorAssemblyInfo.cs
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\yohan\teste_dotnet\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\appsettings.json
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\teste_dotnet.exe
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\teste_dotnet.deps.json
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\teste_dotnet.runtimeconfig.json
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\teste_dotnet.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\teste_dotnet.pdb
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\Ionic.Zip.Reduced.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\SharpKml.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\obj\Debug\net9.0\teste_dotnet.csproj.AssemblyReference.cache
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\obj\Debug\net9.0\teste_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\obj\Debug\net9.0\teste_dotnet.AssemblyInfoInputs.cache
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\obj\Debug\net9.0\teste_dotnet.AssemblyInfo.cs
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\obj\Debug\net9.0\teste_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\obj\Debug\net9.0\teste_dotnet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\obj\Debug\net9.0\teste_dotnet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\obj\Debug\net9.0\teste_dotnet.RazorAssemblyInfo.cache
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\obj\Debug\net9.0\teste_dotnet.RazorAssemblyInfo.cs
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\obj\Debug\net9.0\teste_do.251034CE.Up2Date
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\obj\Debug\net9.0\teste_dotnet.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\obj\Debug\net9.0\refint\teste_dotnet.dll
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\obj\Debug\net9.0\teste_dotnet.pdb
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\obj\Debug\net9.0\teste_dotnet.genruntimeconfig.cache
+C:\Users\yohan\OneDrive\Área de Trabalho\teste_dotnet\obj\Debug\net9.0\ref\teste_dotnet.dll
